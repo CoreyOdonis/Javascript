@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Getting started with JavaScript for beginners'
+theme = "ananke"
