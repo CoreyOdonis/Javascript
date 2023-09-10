@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Getting started with JavaScript for beginners</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Getting started with JavaScript for beginners</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 07:40:56 +0100</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started with JavaScript for Beginners</title>
+      <link>https://example.org/post/javascript-for-beginners/</link>
+      <pubDate>Sun, 10 Sep 2023 07:40:56 +0100</pubDate>
+      
+      <guid>https://example.org/post/javascript-for-beginners/</guid>
+      <description>TABLE OF CONTENT Link to Introduction Why learn JavaScript How is JavaScript used in web development Javascript fundamentals Variables Data types Functions JavaScript file naming conventions Javascript DOM Selecting the HTML elements in the DOM Manipulating HTML elements in the DOM JavaScript Libraries Popular JavaScript libraries What are JavaScript frameworks Popular JavaScript frameworks Conclusions Resources for learning JavaScript INTRODUCTION TO JAVASCRIPT FOR BEGINNERS JavaScript is a lightweight, cross-platform, and dynamic computer programming language well known for the development of web pages.</description>
+    </item>
+    
+  </channel>
+</rss>
